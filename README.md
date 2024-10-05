@@ -1,19 +1,8 @@
-<p align="center">
-  <img width="250" height="250" src="https://media.tenor.com/images/2c3668f83f251c47fe4319ed58961898/tenor.gif">
-</p>
-<h1 align="center">Rafel</h1><p align="center">
-<b>Rafel</b> is <b>Remote Access Tool</b> Used to Control Victims Using <b>WebPanel</b> With More Advance Features..
-</p>   
 
-<p align=center>  
-<a href=https://github.com/swagkarna><img src="https://img.shields.io/badge/Author-Swagkarna-red.svg?style=for-the-badge&label=Author" /></a>
-
-<img src="https://img.shields.io/badge/Version-1.0-brightgreen?style=for-the-badge" >
-<img src="https://img.shields.io/github/stars/swagkarna/Rafel-Rat?style=for-the-badge">  
-<img src="https://img.shields.io/github/followers/swagkarna?label=Followers&style=for-the-badge">
-</p>   
-
-* **If you like the tool and for my personal motivation so as to develop other tools please leave a +1 star** 
+--- 
+## Disclaimer
+<b>Swagkarna Provides no warranty and will not be responsible for any direct or indirect damage caused by this tool.<br>
+Rafel-Rat is built for Educational and Internal use ONLY.</b>
 
 ---
 ### Main Features  :
@@ -81,38 +70,3 @@ Watch Video in Full Screen For Better Quality
 |<a href="https://github.com/swagkarna/Rafel-Rat/blob/main/Screenshots/Screenshot%20(70).png?raw=true"> <img width="2000" src="https://github.com/swagkarna/Rafel-Rat/blob/main/Screenshots/Screenshot%20(70).png?raw=true"> Panel-1</a> | <a href="https://github.com/swagkarna/Rafel-Rat/blob/main/Screenshots/Screenshot%20(71).png?raw=true"> <img width="2000" src="https://github.com/swagkarna/Rafel-Rat/blob/main/Screenshots/Screenshot%20(71).png?raw=true"> Panel-2</a> |<a href="https://github.com/swagkarna/Rafel-Rat/blob/main/Screenshots/Screenshot%20(72).png?raw=trueg"> <img width="2000" src="https://github.com/swagkarna/Rafel-Rat/blob/main/Screenshots/Screenshot%20(72).png?raw=true"> Panel-3 </a>||
 
 ---
-
-### Check this Article 
-
-- https://dontkillmyapp.com/
-
-
---- 
-## Disclaimer
-<b>Swagkarna Provides no warranty and will not be responsible for any direct or indirect damage caused by this tool.<br>
-Rafel-Rat is built for Educational and Internal use ONLY.</b>
-
----
-
-## Contact :
-<a href=mailto:swagkarna@gmail.com><img src="https://img.shields.io/badge/Gmail-swagkarna-green?style=for-the-badge" /></a>
-<a href=https://twitter.com/swagkarna><img src="https://img.shields.io/badge/Twitter-@swagkarna-blue?style=for-the-badge" /></a>
-
-
----    
-
-<p align="center">  
-<img src="https://user-images.githubusercontent.com/46685308/113503828-f88fdf00-9551-11eb-9815-7371515655c1.png"></img>
-</p>
-<h2 align="center">Inspired From Raptor-Rat</h2>
-
----
-### ❤️Supporters❤️
-[![Stargazers repo roster for @swagkarna/Rafel-Rat](https://reporoster.com/stars/swagkarna/Rafel-Rat)](https://github.com/swagkarna/Rafel-Rat/stargazers)
-[![Forkers repo roster for @swagkarna/Rafel-Rat](https://reporoster.com/forks/swagkarna/Rafel-Rat)](https://github.com/swagkarna/Rafel-Rat/network/members)
-
----
-                        
-                        
-                     
-
