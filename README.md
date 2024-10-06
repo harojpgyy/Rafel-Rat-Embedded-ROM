@@ -6,27 +6,11 @@ Rafel-Rat is built for Educational and Internal use ONLY.</b>
 
 ---
 ### Main Features  :
-- [X] Admin Permission
-- [X] Add App To White List(Ignore Battery Optimisation)
-- [X] Legit Mod App
-- [X] Runs In Background Even App is Closed(May not work on some Devices)
-- [X] Accessibility Feature(Cause Erros in some device --> ignore it)
-- [X] Support Android v5 - v12
-- [X] No Port Forwarding Needed
-- [X] Acquire Wakelock
-- [X] Fully Undetectable
-- [X] Bypass PlayProtect
-- [X] WipeSdcard
-- [X] Lock Device Screen
-- [X] Change Wallpaper
-- [X] Ransomware
-- [X] Vibrate Device
-- [X] Delete Calls Logs
-- [X] Notify Victims Via Discord
-- [X] steal notifications(send through discord)
-- [X] Added AutoStart For (poco,xiaomi,oppo,vivo,LetV,Honor)
----
-
+Administrator privilegesAdministrator privileges
+Port forwarding
+Accessibility
+Device control
+Auto-start keep alive
 ### Prerequisites 
  - Android Studio
 
